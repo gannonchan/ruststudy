@@ -1,0 +1,6 @@
+[package]
+name = "var-study"
+version = "0.1.0"
+authors = ["陈志明 <10817052@qq.com>"]
+
+[dependencies]
